@@ -7,4 +7,4 @@ This dataset had over 100,000 different medical appointments with 12 different p
 first I wrangled and cleaned the data to make analysis of the dataset easier.
 Then I completed some explority analysis to determine what factors increase the likehood that the patient was no-show at for the appointment.
 
-I drew conclusions about the what factors increased the likelyhood of a patient being a no-show.
+Finally I drew conclusions about the what factors increased the likelyhood of a patient being a no-show.
